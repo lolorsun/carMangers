@@ -1,0 +1,37 @@
+01-12 阴
+
+12号上班，买11号返程票。
+终端和控制台
+参考网址：https://www.sohu.com/a/236725796_554035
+定义：
+	控制台，是计算机固有的部分
+	终端，是为了解决计算机使用使用资源的问题，扩展出来的功能
+	现在的终端专指软件意义上的终端
+切换：chvt 2 相当于ctrl+alt+f2
+
+qt第三天
+复习第二天内容
+	按钮类
+	item
+	QListWidget
+	容器类 QStackWidget  切换
+	QWidget 
+	QFrame  带边框、不带边框
+	编辑类
+	QTextEdit
+	QLineEdit
+	显示类
+	QLabel
+   	QLcdNumber	
+布局
+水平
+垂直
+网格
+布局属性
+
+自定义控件
+自定义控件和ui控件的基类的一样
+
+
+
+
